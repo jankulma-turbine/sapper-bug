@@ -11,6 +11,9 @@
 </script>
 
 <style>
+	:global(body) {
+		color: blue;
+	}
 	ul {
 		margin: 0 0 1em 0;
 		line-height: 1.5;

@@ -1,3 +1,9 @@
+<style>
+	:global(body) {
+		color: red;
+	}
+</style>
+
 <svelte:head>
 	<title>About</title>
 </svelte:head>
